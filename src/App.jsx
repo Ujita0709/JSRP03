@@ -1,11 +1,11 @@
-import DoubleNumber from "./Double"; 
+import TextInput from "./TextInput"; 
 
 function App() {
   
   return (
     <div>
       <h1>React Test</h1>
-      <DoubleNumber />    {/* 表示 */}
+      <TextInput />    {/* 表示 */}
     </div>
   )
 }
