@@ -1,11 +1,11 @@
-import Watcher from "./Watcher"; 
+import Array from "./Array"; 
 
 function App() {
   
   return (
     <div>
       <h1>React Test</h1>
-      <Watcher />    {/* 表示 */}
+      <Array />    {/* 表示 */}
     </div>
   )
 }
