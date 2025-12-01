@@ -1,11 +1,11 @@
-import AddThree from "./AddThree"; 
+import Hello from "./Hello"; 
 
 function App() {
   
   return (
     <div>
       <h1>React Test</h1>
-      <AddThree />    {/* 表示 */}
+      <Hello />    {/* 表示 */}
     </div>
   )
 }
