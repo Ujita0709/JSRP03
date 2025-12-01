@@ -1,11 +1,11 @@
-import Counter from "./count"; 
+import TextInput from "./TextInput"; 
 
 function App() {
   
   return (
     <div>
       <h1>React Test</h1>
-      <Counter />    {/* 表示 */}
+      <TextInput />    {/* 表示 */}
     </div>
   )
 }
